@@ -1,2 +1,2 @@
-# YHills-JavaScript-Project
-Contains YHills JavaScript Clock Project
+# Small-JavaScript-Project
+Contains Small JavaScript Clock Project
